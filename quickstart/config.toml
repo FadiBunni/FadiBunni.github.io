@@ -1,4 +1,5 @@
-baseURL = "FadiBunni.github.io.git"
+baseURL = "FadiBunni.github.io.git/quickstart"
 languageCode = "en-us"
 title = "SocialDataViz"
 theme = "hugo now"
+publishDir = "docs"
