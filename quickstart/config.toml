@@ -1,0 +1,4 @@
+baseURL = "FadiBunni.github.io.git"
+languageCode = "en-us"
+title = "SocialDataViz"
+theme = "hugo now"
